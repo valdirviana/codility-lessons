@@ -24,9 +24,7 @@ const getBinaryGaps = binary => {
   return gaps.length > 0 ? Math.max(...gaps) : 0;
 };
 
-function solution(N) {
+exports.solution = (N) => {
   const result = findBinaryGaps(N);
   return result;
 }
-
-solution(222);

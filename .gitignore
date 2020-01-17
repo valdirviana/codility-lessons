@@ -1,2 +1,4 @@
 /**/csharp/obj/*
 /**/csharp/bin/*
+
+/**/node_modules/
