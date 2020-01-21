@@ -6,5 +6,3 @@ const solution = (A, K) => {
 };
 
 exports.solution = solution;
-
-solution([3, 8, 9, 7, 6], 3);
